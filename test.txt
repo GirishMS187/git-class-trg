@@ -2,3 +2,4 @@ new test file
 writing line 1
 
 a=10
+b=100
